@@ -78,7 +78,7 @@ The following tools were used to build the project:
 ---
 
 
-## Resources
+## 🔍 Resources
 * [Deploying Angular 4 Apps with Environment-Specific Info](https://www.intertech.com/Blog/deploying-angular-4-apps-with-environment-specific-info/)
 * [GH: Microservices Demo App](https://github.com/benc-uk/microservices-demoapp)
 * [SO: configure Angular 2 Webpack App in Docker container environment specific](https://stackoverflow.com/a/40431356/3096092)
