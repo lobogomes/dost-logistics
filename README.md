@@ -1,11 +1,11 @@
 
 
 <h1 align="center">
-    🌈 dost logistics 🌈
+    🚚 dost logistics 🚚
 </h1>
 
 <h3 align="center">
-    an efficient platform for managing logistics operations
+    an efficient platform for managing logistics operations develop with Angular
 </h3>
 
 <p align="center">
@@ -45,7 +45,7 @@
 ### Prerequisites
 
 Before starting, you will need to have the following tools installed on your machine:
-[Git](https://git-scm.com), [Yarn](https://yarnpkg.com) and [Node.js](https://nodejs.org/en/).
+[Git](https://git-scm.com), [Yarn](https://yarnpkg.com) and [Node.js 16+](https://nodejs.org/en/).
 In addition it is good to have an editor to work with code like [VSCode](https://code.visualstudio.com/)
 
 ```bash
