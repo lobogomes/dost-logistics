@@ -86,6 +86,8 @@ The following tools were used to build the project:
 * [M: Your Angular apps as Docker containers](https://medium.com/@DenysVuika/your-angular-apps-as-docker-containers-471f570a7f2)
 * [M: Create efficient Angular Docker images with Multi Stage Builds](https://medium.com/@avatsaev/create-efficient-angular-docker-images-with-multi-stage-builds-907e2be3008d)
 
+---
+
 ## 💪 How to contribute to the project
 
 1. **Fork** the project.
