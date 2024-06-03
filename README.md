@@ -1,20 +1,20 @@
 
 
 <h1 align="center">
-    🌈 my portfolio 🌈
+    🌈 dost logistics 🌈
 </h1>
 
 <h3 align="center">
-    a web app about me 
+    an efficient platform for managing logistics operations
 </h3>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/lobogomes/my-portfolio?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/lobogomes/dost-logistics?color=%2304D361">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/lobogomes/my-portfolio">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/lobogomes/dost-logistics">
 
   <a href="https://github.com/lobogomes/mm-money/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/lobogomes/my-portfolio">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/lobogomes/dost-logistics">
   </a>
 
 
@@ -32,30 +32,12 @@
 
 ## 💻 Functions
 
-- [x] description of me and my career
-- [x] enigma game
-- [x] ...
-
----
-
-## 🎨 Design
-
-The application layout is available in Figma:
-
-<p align="center">
-	<a href="https://www.figma.com/file/lKNiWA8DsIpbYZqkdhzo1m/mm-money-app?node-id=0%3A1">
-  	<img alt="Made by amandalobo" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
-	</a>
-</p>
-
-
-<!--<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="mm money" title="mm money" src="src/assets/Início.svg" height="400px">
-  <img alt="mm money" title="mm money" src="src/assets/Home.svg" height="400px">
-  <img alt="mm money" title="mm money" src="src/assets/Cadastro.svg" height="400px">
-  <img alt="mm money" title="mm money" src="src/assets/Resumo.svg" height="400px">
-</p>-->
-
+- [x] Login and Authentication
+- [x] View and manage logistics services
+- [x] Manage client information and history
+- [x] Reviews: Feedback system for clients to rate services
+- [x] Translation supporting multiple languages
+- [x] CI/CD configuration with Docker and Jenkins
 ---
 
 ## 🚀 Execute
@@ -69,10 +51,10 @@ In addition it is good to have an editor to work with code like [VSCode](https:/
 ```bash
 
 # Clone this repository
-$ git clone git@github.com:lobogomes/my-portfolio.git
+$ git clone git@github.com:lobogomes/dost-logistics.git
 
 # Access the project folder in terminal/cmd
-$ cd my-portfolio
+$ cd dost-logistics
 
 # Install dependencies
 $ yarn install
@@ -91,8 +73,18 @@ The following tools were used to build the project:
 
 -   **[TypeScript](https://www.typescriptlang.org/)**
 -   **[Angular CLI](https://angular.io/cli)**
+-   **[Docker](https://docker.com)**
 
 ---
+
+
+## Resources
+* [Deploying Angular 4 Apps with Environment-Specific Info](https://www.intertech.com/Blog/deploying-angular-4-apps-with-environment-specific-info/)
+* [GH: Microservices Demo App](https://github.com/benc-uk/microservices-demoapp)
+* [SO: configure Angular 2 Webpack App in Docker container environment specific](https://stackoverflow.com/a/40431356/3096092)
+* [M: Angular in Docker with Nginx, supporting configurations / environments](https://medium.com/@tiangolo/angular-in-docker-with-nginx-supporting-environments-built-with-multi-stage-docker-builds-bb9f1724e984)
+* [M: Your Angular apps as Docker containers](https://medium.com/@DenysVuika/your-angular-apps-as-docker-containers-471f570a7f2)
+* [M: Create efficient Angular Docker images with Multi Stage Builds](https://medium.com/@avatsaev/create-efficient-angular-docker-images-with-multi-stage-builds-907e2be3008d)
 
 ## 💪 How to contribute to the project
 
